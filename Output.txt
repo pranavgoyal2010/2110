@@ -1,0 +1,9 @@
+Enter the filename to read from/encode: Pokemon.txt
+Printing codes to Huffman.txt
+Printing encoded text to Encoded.txt
+
+*****************
+
+Enter the filename containing Huffman codes: Huffman.txt
+Enter the filename to read from/decode: Encoded.txt
+Printing decoded text to Decoded.txt
