@@ -1,6 +1,6 @@
 # Huffman Encoding Decoding
 
-This project implements encoding and decoding of text using binary trees. The text is encoded based on frequency of characters resulting in size compression of text. This decreases the overall memeroy space occupied by the encoded text. The project applies Object Oriented Priniciples such as Inheritance, Abstarction and Encapsulation.
+This project implements encoding and decoding of text using binary trees. The text is encoded based on frequency of characters resulting in size compression of text. This decreases the overall memory space occupied by the encoded text. The project applies Object Oriented Priniciples such as Inheritance, Abstarction and Encapsulation.
 
 **Pair.java** is used to represent a character and its corresponding number of occurences(frequency) in the given text.
 
